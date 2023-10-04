@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 <img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vconlln&theme=cobalt2&show_icons=true&card_width=495px)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FranzKafkaYu&show_icons=true&theme=tokyonight)  
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vconlln&show_icons=true&theme=tokyonight)  
 
 
 ## 🌎 Find me
 - wechat Official Account: search **语如鲸落**✍🏾
 - blog: click [Vc0n1Ln](https://vconlln.cn/):memo:    
-- email:<a href="mailto:vconlln.cin@gmail.com">loveme@duck.com</a>:e-mail:
+- email:<a href="mailto:vconlln.cin@gmail.com">vconlln.cin@gmail.com</a>:e-mail:
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Android12系统之系统属性](https://coderfan.net/android12-system-properties.html?utm_source=rss&utm_medium=rss&utm_campaign=android12-system-properties)
