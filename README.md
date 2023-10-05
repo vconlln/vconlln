@@ -32,16 +32,17 @@ Here are some ideas to get you started:
 
 
 ## 🌎 Find me
-- wechat Official Account: search **语如鲸落**✍🏾
 - blog: click [Vc0n1Ln](https://vconlln.cn/):memo:    
 - email:<a href="mailto:vconlln.cin@gmail.com">vconlln.cin@gmail.com</a>:e-mail:
+
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Android12系统之系统属性](https://coderfan.net/android12-system-properties.html?utm_source=rss&utm_medium=rss&utm_campaign=android12-system-properties)
-- [Android应用四大组件之服务](https://coderfan.net/android-app-development-service-usage.html?utm_source=rss&utm_medium=rss&utm_campaign=android-app-development-service-usage)
-- [Android Native服务注册流程概述](https://coderfan.net/android-native-service-registeration.html?utm_source=rss&utm_medium=rss&utm_campaign=android-native-service-registeration)
-- [Android AIDL使用之Parcelable对象](https://coderfan.net/android-aidl-usage-of-parcelable-variable.html?utm_source=rss&utm_medium=rss&utm_campaign=android-aidl-usage-of-parcelable-variable)
-- [Android AIDL使用概述](https://coderfan.net/android-aidl-usage.html?utm_source=rss&utm_medium=rss&utm_campaign=android-aidl-usage)
+
+- [ArchLinux简单安装](https://vconlln.cn/posts/archlinuxdwm.html)
+- [Linux一些软件的破解](https://vconlln.cn/posts/pojie.html)
+- [Markdown语法指南](https://vconlln.cn/posts/2013454d.html)
+- [CTF之RSA食用指南](https://vconlln.cn/posts/rsa.html)
+- [Elliptic Curve Cryptography概述](https://vconlln.cn/posts/ecc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
